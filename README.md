@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+  - My name is Ha Minh Khoa. I am a final year Computer science student at the International University. I am interested in multiple subject within the programming world, however, my current onjectives are about web development and database management.
+  - How to reach me: [Ha Minh Khoa](mailto:khoahaminh2001@gmail.com)
